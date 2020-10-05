@@ -1,0 +1,6 @@
+[
+    {"name": "apple", "minCost": 2.43, "maxCost": 6.89, "averageCost": 4.1575},
+    {"name": "banana", "minCost": 0.23, "maxCost": 4.89, "averageCost": 1.6083333333333332},
+    {"name": "celery", "minCost": 1.99, "maxCost": 6.89, "averageCost": 4.733333333333333},
+    {"name": "zebra", "minCost": 12399.99, "maxCost": 39999.99, "averageCost": 26199.989999999998}
+]

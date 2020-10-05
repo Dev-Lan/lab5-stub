@@ -1,0 +1,6 @@
+[
+    {"name": "apple", "costList": [3.32, 3.99, 2.43, 6.89]},
+    {"name": "banana", "costList": [1.32, 0.99, 1.43, 4.89, 0.79, 0.23]},
+    {"name": "celery", "costList": [5.32, 1.99, 6.89]},
+    {"name": "zebra", "costList": [12399.99, 39999.99]}
+]
